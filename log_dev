@@ -1,0 +1,214 @@
+* 8a347ac - Lucas Blondel, 2024-01-10 : Correction doc options.h
+* 53badb2 - Travis LEBLANC, 2024-01-10 : ajout de la documentation technique
+* 7bfa587 - Lucas Blondel, 2024-01-07 : Documentation, commentaires et nettoyage de code
+* 95253ea - Lucas Blondel, 2024-01-07 : Correction d'une documentation de fonction
+* 833c183 - Lucas Blondel, 2024-01-06 : Correction des documentations de fonctions
+* ab272c6 - Lucas Blondel, 2024-01-06 : Suppression des fonctions temporaires
+* 9c03233 - Lucas Blondel, 2024-01-06 : Modification du makefile
+* c7d9c74 - Lucas Blondel, 2024-01-06 : Ajout des options et du module option
+* 8a498b0 - Lucas Blondel, 2024-01-06 : Ajout des options et du module option
+* 48a3fbd - Lucas Blondel, 2024-01-06 : Corrections graphiques + bug coût des tours
+* 2ad7494 - Lucas Blondel, 2024-01-05 : Passage de grosses structures par ardresse
+* 135ed67 - Lucas Blondel, 2024-01-05 : Passage de grosses structures par adresse
+* 756cd85 - Lucas Blondel, 2024-01-05 : Correction d'un bug de duplication de gemmes
+* fdb01a2 - Lucas Blondel, 2024-01-05 : Amélioration du makefile
+* 476e3d2 - Lucas Blondel, 2024-01-05 : Ajout des ifndef manquants
+* 4bfbc4a - Lucas Blondel, 2024-01-05 : Correction de l'affichage
+* 0dec3d8 - Travis LEBLANC, 2024-01-05 : supression des coordonées dans tours
+* 496ed70 - Travis LEBLANC, 2024-01-05 : optimisation: supression du tableau de tours + details graphiques
+* b83fada - Travis LEBLANC, 2024-01-04 : ajout de l'affichage des couts
+* c8f4004 - Travis LEBLANC, 2024-01-04 : correction bug
+* 0e1e20d - Travis LEBLANC, 2024-01-04 : changement de quelque documentations
+* e437752 - Travis LEBLANC, 2024-01-03 : correction genericTab & graphisme + animation
+* 4f2a9c1 - Travis LEBLANC, 2024-01-01 : supression du bouton fusion_gemme + correction gemme in tour
+* 12fbbb8 - Travis LEBLANC, 2024-01-01 : supression du bouton fusion_gemme + correction gemme in tour
+* 57d11c3 - Travis LEBLANC, 2024-01-01 : supression du bouton fusion_gemme + correction gemme in tour
+* b7f5b29 - Travis LEBLANC, 2024-01-01 : supression du bouton fusion_gemme + correction gemme in tour
+*   9dc2934 - Travis LEBLANC, 2024-01-01 : ajoue de tableau générique + resolution de bug projectile
+|\  
+| * eb46733 - Travis LEBLANC, 2024-01-01 : ajoue de tableau générique + resolution de bug projectile
+* | c6a91eb - Travis LEBLANC, 2023-12-31 : merge test-interface to main
+|\| 
+| * cc27305 - Travis LEBLANC, 2023-12-30 : test de l'interface en glisser-deposer
+|/  
+* 01fb95f - Travis LEBLANC, 2023-12-30 : supression total du tableau route
+*   11bd0e7 - Travis LEBLANC, 2023-12-30 : merge optimisation to main
+|\  
+| *   257ded0 - Travis LEBLANC, 2023-12-30 : Merge branch 'main' into merge
+| |\  
+| |/  
+|/|   
+* | fd2fcfe - Travis LEBLANC, 2023-12-26 : oublie de printf
+* | 8e1e40d - Travis LEBLANC, 2023-12-26 :  delai avant activation + somme degats + changement constantes
+| * fbe0fb7 - Travis LEBLANC, 2023-12-30 : optimisation terrain + refactor des switch sur dir
+|/  
+* aa94bbc - Travis LEBLANC, 2023-12-26 : optimisation: bittab + powf retiré
+* ae6307a - Travis LEBLANC, 2023-12-23 : a lot of cleaning and commentary
+* c18367a - Travis LEBLANC, 2023-12-23 : maj_effet + corrections bugs
+* cbcc1c9 - Lucas Blondel, 2023-12-22 : Ajout de la génération de gemmes de niveau n
+* 4258580 - Lucas Blondel, 2023-12-22 : Ajout de la génération de gemmes de niveau n
+* 99e985e - Travis LEBLANC, 2023-12-22 : ajout de maj_jeu + modification du system des maj + refactor
+* 6eb5ed5 - Lucas Blondel, 2023-12-21 : Utilisation de constantes au lieu de variables
+* 31a466e - Lucas Blondel, 2023-12-21 : Utilisation de constantes au lieu de variables
+* 0b4cd12 - Lucas Blondel, 2023-12-21 : Utilisation de constantes au lieu de variables
+* 89bc857 - Lucas Blondel, 2023-12-21 : Utilisation de constantes au lieu de variables
+* 9c03135 - Lucas Blondel, 2023-12-21 : Utilisation de constantes au lieu de variables
+* 93340f6 - Lucas Blondel, 2023-12-21 : Utilisation de constantes au lieu de variables
+* 3cc5f47 - LEBLANC TRAVIS, 2023-12-21 : ajout du gain de mana a la mort + liberation du jeu
+* 7be2885 - LEBLANC TRAVIS, 2023-12-21 : rajout de l'enum Zone_Clic
+* c6838cb - Lucas Blondel, 2023-12-21 : Corrections de bug et poursuite des actions
+* afe848f - Lucas Blondel, 2023-12-21 : Corrections de bug et poursuite des actions
+* b1a8f59 - Lucas Blondel, 2023-12-20 : Ajout du module jeu et poursuite du module action
+* 8067b9a - Lucas Blondel, 2023-12-20 : Ajout du module jeu et poursuite du module action
+* 5bddb5b - Lucas Blondel, 2023-12-20 : Ajout du module jeu et poursuite du module action
+* 16f066a - Lucas Blondel, 2023-12-18 : Ajotu du module action
+* 9b99c47 - Lucas Blondel, 2023-12-18 : Ajout du module action
+* 8f25877 - Lucas Blondel, 2023-12-18 : Ajout du module action
+* 264b91f - Lucas Blondel, 2023-12-18 : Correction de génération de terrain + projectile
+*   c10a74c - Travis LEBLANC, 2023-12-17 : merge projectile to main
+|\  
+| *   0ff1e8d - Travis LEBLANC, 2023-12-17 : Merge branch 'main' into merge
+| |\  
+| |/  
+|/|   
+* | e70c00c - Lucas Blondel, 2023-12-17 : Fusion de moteur_monstre et monstre
+* | b3cb774 - Lucas Blondel, 2023-12-17 : Correction de l'algo de génération de chemin
+* | 94b8d3a - Lucas Blondel, 2023-12-17 : Finitions sur l'affichage
+* | 5852bfe - Lucas Blondel, 2023-12-17 : Finitions sur l'affichage
+* | 4de9a3f - Lucas Blondel, 2023-12-17 : Fusion de moteur_monstres et monstre
+* | c4e8044 - Lucas Blondel, 2023-12-17 : Fusion de moteur_monstres et monstre
+* | 20d4178 - Lucas Blondel, 2023-12-17 : Fusion de moteur_monstres.h et monstre.h
+* | 26b32a6 - Lucas Blondel, 2023-12-17 : Fusion de moteur_monstres.h et monstre.h
+| * 201dcfd - Travis LEBLANC, 2023-12-17 : creation d'un fichier de constante, affichage de projectiles, refactor de distances
+|/  
+*   4f1821a - Travis LEBLANC, 2023-12-16 : merge projectile to main
+|\  
+| *   6ec1d5e - Travis LEBLANC, 2023-12-16 : Merge branch 'main' into merge
+| |\  
+| |/  
+|/|   
+* | 65ab724 - Lucas Blondel, 2023-12-16 : Changement de la taille_case
+* | bfe40e2 - Lucas Blondel, 2023-12-16 : Ajout de la distance entre deux monstres
+* | 14c78f3 - Lucas Blondel, 2023-12-16 : Ajout de la distance entre deux monstres
+* | 88e1feb - Lucas Blondel, 2023-12-16 : Définition du nombre max de gemmes dans l'inventaire
+* | 8b43d4c - Lucas Blondel, 2023-12-16 : Ajout du module d'affichage du jeu
+* | c0ef432 - Lucas Blondel, 2023-12-16 : Ajout du module d'affichage du jeu
+| * ff633a6 - Travis LEBLANC, 2023-12-16 : continue the modifications of projectiles
+|/  
+* b5ef6cb - Lucas Blondel, 2023-12-13 : Correction du calcul de la vitesse
+* 5160576 - LEBLANC TRAVIS, 2023-12-13 : ajout de TabProj et maj du Makefile
+* 9d11aec - Lucas Blondel, 2023-12-13 : Ajout du module element
+* 90ed93c - Lucas Blondel, 2023-12-13 : Ajout du module element
+* 5b8b64d - LEBLANC TRAVIS, 2023-12-12 :  petit changement sur elements et effets
+* d576316 - Lucas Blondel, 2023-12-10 : Champ element en int dans la struct Effet
+* ead4f52 - Lucas Blondel, 2023-12-10 : Correction de bugs dans le mouvement des monstres
+* ada665e - Lucas Blondel, 2023-12-10 : Correction de bugs dans le mouvement des monstres
+* 408744d - Lucas Blondel, 2023-12-04 : Simplification des fonctions pour la carte
+* 87b7432 - Lucas Blondel, 2023-12-04 : Simplifications des fonctions pour la carte
+* 2eabd8e - Travis LEBLANC, 2023-11-18 : premier test graphique dans le main
+* 82a7ee8 - Travis LEBLANC, 2023-11-18 : Modification des Gemme* en Gemme
+* 6826bc1 - LEBLANC TRAVIS, 2023-11-17 : debut des modif pour gemme non-alloue
+* 06501ec - LEBLANC TRAVIS, 2023-11-17 : prolongement des modifications de monstre.h
+* e4bfd50 - Lucas Blondel, 2023-11-16 : Fusion des structures de liste et de tableau
+* 7fc54f4 - Lucas Blondel, 2023-11-16 : Fusion des structures de listes et tableau
+* fcf3e74 - Lucas Blondel, 2023-11-16 : Modification de fonctions
+* baf6c7d - Lucas Blondel, 2023-11-16 : Modification de tableaux et du retour de fonction
+* a20c8ef - Lucas Blondel, 2023-11-15 : Modification de ajout_vague
+* 20282e7 - Lucas Blondel, 2023-11-13 : Ajout du champ affiche et vague_aleatoire
+* 57ba8e6 - Lucas Blondel, 2023-11-13 : Ajout du champ affiche et vague_aleatoire
+* 9462d7e - Lucas Blondel, 2023-11-12 : Correction du calcul pour avancer les monstres
+* 6bcec0b - Lucas Blondel, 2023-11-12 : Correction de la fonction avancer_monstre
+* 8128376 - Lucas Blondel, 2023-11-12 : Correction du calcul pour faire avancer les monstres
+* 3511209 - Lucas Blondel, 2023-11-12 : Ajout du module moteur_monstres dans le makefile
+* e00362c - Lucas Blondel, 2023-11-12 : Suppression de la fonction case_suiv
+* 54d70b0 - Lucas Blondel, 2023-11-12 : Suppresion de mouv.h
+* 8d1553d - Lucas Blondel, 2023-11-12 : Remplacement de mouv.h en moteur_monstres.h
+* 5eda2c8 - Lucas Blondel, 2023-11-12 : Ajout des fonctions pour manipuler les monstres
+* f91133b - Lucas Blondel, 2023-11-12 : Suppression de mouv.h remplacé par moteur_monstres.h
+* b5c6f53 - Lucas Blondel, 2023-11-12 : Suppression de la fonction case_suiv
+* f11293c - Lucas Blondel, 2023-11-12 : Mise à jour de mouv.h en moteur_monstres.h
+* 074c66b - Travis LEBLANC, 2023-11-11 : Gestion des projectiles
+* b69a10e - Travis LEBLANC, 2023-11-11 : j'avais oublié de retiré les .o
+* 01388f8 - Travis LEBLANC, 2023-11-11 : rajout de fonctions de gestion de mana
+* 3afa4cc - Lucas Blondel, 2023-11-11 : Ajout de commentaires dans monstre.h
+* 5acf246 - Lucas Blondel, 2023-11-11 : Ajout de mouv.h, modification terrain.h monstre.h
+* 3be57cd - Lucas Blondel, 2023-11-11 : Création de mouv.c pour le mouvement des monstres
+* 9632827 - Lucas Blondel, 2023-11-11 : Delete src/terrain.h
+* e1b55f0 - Lucas Blondel, 2023-11-11 : Modification du retour de init_terrain
+* 8215c73 - Lucas Blondel, 2023-11-10 : Ajout des prototypes des fonctions de libération et de création de vague
+* b3bfc95 - Lucas Blondel, 2023-11-08 : Ajout commentaires
+* c4d3ee4 - Lucas Blondel, 2023-11-07 : Ajout de l'include de terrain.h
+* 7c41d0e - Lucas Blondel, 2023-11-07 : Correction de paramètres de certaines fonctions
+* 92d8149 - Lucas Blondel, 2023-11-07 : Ajout des prototypes des fonctions et du champ vitesse_vague
+* 47c3d14 - Lucas Blondel, 2023-11-04 : suppression du champ prec dans vagues
+* 7d17d98 - Lucas Blondel, 2023-11-04 : Ajout de la structure Effet et modification des autres structures
+* 455455f - Lucas Blondel, 2023-11-04 : Ajout commentaires
+* 8c314a8 - Lucas Blondel, 2023-11-04 : Annulation du précédent changement
+* a5bb77d - Lucas Blondel, 2023-11-04 : Modification de monstre en pointeur dans la struct vague
+*   8eb0c4c - Travis LEBLANC, 2023-11-03 : Merge branch 'main' of https://github.com/UGE-L3-INFO-2023-2024/progc-blondel_leblanc
+|\  
+| * a9867a5 - Travis LEBLANC, 2023-11-03 : merge problems
+* | bf08262 - Travis LEBLANC, 2023-11-03 : correction makefile
+|/  
+*   af33d85 - Travis LEBLANC, 2023-11-03 : merge compilation + corrections
+|\  
+| * df3614a - Lucas Blondel, 2023-11-03 : Ajout d'un structure de liste pour les vagues
+| * 03df7aa - Lucas Blondel, 2023-11-03 : Ajout de la fonction pour libérer la carte
+* | 3b47588 - Travis LEBLANC, 2023-11-03 : mise en commun
+* | 43aeebb - Travis LEBLANC, 2023-11-03 : première compilation et corrections
+|/  
+* 91d7519 - Lucas Blondel, 2023-11-03 : Ajout des fonctions pour générer le terrain
+* 6859e44 - Lucas Blondel, 2023-11-03 : Ajout des fonctions génération du terrain
+* fe8867e - Travis LEBLANC, 2023-11-03 : premières fonctions
+* 085fa0c - Travis LEBLANC, 2023-11-03 : premières fonctions
+* 1862981 - Travis LEBLANC, 2023-11-03 : rajout free_joueur()
+* a09711f - Travis LEBLANC, 2023-11-03 : correction d'erreurs
+* 79b8d91 - Travis LEBLANC, 2023-11-03 : Correction d'erreurs
+* 714bafa - Travis LEBLANC, 2023-11-03 : corrections d'erreurs
+* b5b47dc - Travis LEBLANC, 2023-11-03 : rajout des définitions des fonctions de joueur
+* c0b4161 - Travis LEBLANC, 2023-11-03 : update joueur.h
+* 8b40b27 - Travis LEBLANC, 2023-11-02 : début de déclarations de projectile
+* c9fb0af - Travis LEBLANC, 2023-11-02 : rajout de la fonctions retirer_gemme
+* b6932bf - Lucas Blondel, 2023-11-01 : Suppression de #include "terrain.h" car déjà présent
+* ff70417 - Lucas Blondel, 2023-11-01 : Modification du champ gemme de Tour en pointeur vers gemme
+* 6af7bee - Travis LEBLANC, 2023-11-01 : Gemme alloué sur le tas
+*   473b75c - Travis LEBLANC, 2023-11-01 : Merge branch 'main' of https://github.com/UGE-L3-INFO-2023-2024/progc-blondel_leblanc
+|\  
+| * b3880b6 - Travis LEBLANC, 2023-11-01 : déclarations de fonctions
+| * 124495a - Travis LEBLANC, 2023-11-01 : déclarations fonctions
+| * 13eb433 - Travis LEBLANC, 2023-11-01 : définition fonctions
+* | 5bcbe21 - Travis LEBLANC, 2023-11-01 : déclarations de fonction sur les Gemmes
+|/  
+* caa63ff - Travis LEBLANC, 2023-11-01 : rajout de déclarations de fonctions à faire
+* dccc2db - Travis LEBLANC, 2023-11-01 : changement de l'inventaire
+* 19d81da - Lucas Blondel, 2023-10-31 : Ajout du répertoire bin
+* 9619e0d - Travis LEBLANC, 2023-10-30 : rajout des includes écriture d'un premier Makefile
+* 5493999 - Travis LEBLANC, 2023-10-30 : rajout des includes, écriture d'un premier Makefile
+* dbd9619 - Travis LEBLANC, 2023-10-30 : test du commit
+* da8751e - Travis LEBLANC, 2023-10-30 : rajout des includes
+* b86d65c - Lucas Blondel, 2023-10-30 : Ajout du type tour
+* 5891d65 - Lucas Blondel, 2023-10-30 : Modification du champ tours de Terrain
+* d59b016 - Travis LEBLANC, 2023-10-30 : rajout includes
+* ffb66ac - Travis LEBLANC, 2023-10-30 : rajout includes
+* 4ec331c - Lucas Blondel, 2023-10-30 : Modification des champs i et j de Case en li et col
+* d660a90 - Lucas Blondel, 2023-10-30 : Création de joueur.h et des types associés
+* 1cedfcf - Lucas Blondel, 2023-10-30 : Update terrain.h
+* 8344722 - Lucas Blondel, 2023-10-30 : Modification des types
+* 91dcb56 - Travis LEBLANC, 2023-10-30 : Premières idées de structures
+* e7d2792 - Lucas Blondel, 2023-10-30 : Delete bin/test
+* 5ceb3e5 - Lucas Blondel, 2023-10-30 : Create test
+* baf0423 - Lucas Blondel, 2023-10-30 : Create projectile.c
+* 48fb21c - Lucas Blondel, 2023-10-30 : Create tour.c
+* eb1a93c - Lucas Blondel, 2023-10-30 : Create graphisme.c
+* a34708f - Lucas Blondel, 2023-10-30 : Create monstre.c
+* ac103b1 - Lucas Blondel, 2023-10-30 : Create gemme.c
+* faa3a2d - Lucas Blondel, 2023-10-30 : Create terrain.c
+* 4ece924 - Lucas Blondel, 2023-10-30 : Create makefile
+* db415bb - Lucas Blondel, 2023-10-30 : Create terrain.h
+* 3696c05 - Lucas Blondel, 2023-10-30 : Create graphisme.h
+* 4a5aa87 - Lucas Blondel, 2023-10-30 : Create tour.h
+* 989322a - Lucas Blondel, 2023-10-30 : Create projectile.h
+* 3c84d56 - Lucas Blondel, 2023-10-30 : Create monstre.h
+* f79a125 - Lucas Blondel, 2023-10-30 : Create gemme.h
+* 27dade4 - Travis LEBLANC, 2023-10-30 : création du main.c
+* 3629529 - github-classroom[bot], 2023-10-30 : add deadline
