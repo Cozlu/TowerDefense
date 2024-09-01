@@ -37,7 +37,7 @@ You can find the rules in the user manual in the folder "doc"
 
 # TowerDefense (Fr)
 
-University Project
+Projet Universitaire
 
 Octobre 2023 - Janvier 2024
 
