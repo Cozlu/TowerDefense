@@ -66,4 +66,4 @@ Utilisez ./td pour lancer le jeu
 
 ## Comment jouer ?
 
-Vous pouvez trouver les règles du jeu dans la manuel utilisateur dans le répertoire "doc" du projet.
+Vous pouvez trouver les règles du jeu dans le manuel utilisateur dans le répertoire "doc" du projet.
