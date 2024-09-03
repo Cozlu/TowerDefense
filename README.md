@@ -25,6 +25,7 @@ Use the command *make* in the terminal.
 ### Launch
 
 Use ./td to launch the game
+
 *./td -h or ./td --help can also be use for help*
 
 ## How to play ?
@@ -62,6 +63,7 @@ Utilisez la commande *make* dans le terminal.
 ### Lancement
 
 Utilisez ./td pour lancer le jeu
+
 *./td -h ou ./td --help peuvent être utilisés si beasoin d'aide*
 
 ## Comment jouer ?
